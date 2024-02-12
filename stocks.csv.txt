@@ -1,0 +1,4 @@
+SYMBOL,OWNERID,COMPANY,NUM_STOCKS,PRICE
+NVD,1,NVIDIA Corporation,10,5.32
+SANG,2,Sangoma Technologies Corporation,4,9.77
+KLXE,3,KLX Energy Services Holdings,60,13.89
